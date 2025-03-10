@@ -152,8 +152,8 @@ header {
 
 /* Logo size */
 .left-logos img, .right-logos img {
-    width: 200px;  /* Increased width of the logos */
-    height: 100px;  /* Increased height of the logos */
+    width: 100px;  /* Increased width of the logos */
+    height: 75px;  /* Increased height of the logos */
 }
 
 #biographies .bio-image img {
