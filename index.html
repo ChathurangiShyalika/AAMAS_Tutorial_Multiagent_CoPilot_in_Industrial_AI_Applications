@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multiagent CoPilot in Industrial AI Applications</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1 class="header-title">AAMAS 2025 Tutorial | Multiagent CoPilot in Industrial AI Applications </h1>
+
+    <div class="logos">
+        <div class="left-logos">
+            <img src="figs/aamas-logo.png" alt="AAMAS Logo">
+            <img src="figs/bosch.png" alt="Bosch Logo">
+        </div>
+        <div class="right-logos">
+            <img src="figs/AIISC_logo.png" alt="AIISC Logo">
+            <img src="figs/USClogo.jpg" alt="USC Logo">
+        </div>
+    </div>
+
+    <div class="date-location">May 19-23, 2025 | Detroit, Michigan, USA</div>
+
+    <div class="resource-box">
+        <a href="https://github.com/ChathurangiShyalika/AAMAS_Tutorial_Multiagent_CoPilot_in_Industrial_AI_Applications" target="_blank">GitHub Repository</a>
+        <a href="https://aiisc.ai/tutorials.html" target="_blank">Tutorial Slides</a>
+    </div>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#description">Description</a></li>
+        <li><a href="#goal">Goals of the Tutorial</a></li>
+        <li><a href="#schedule">Schedule</a></li>
+        <li><a href="#technical-setup">Technical Setup</a></li>
+        <li><a href="#resources">Supplementary Materials</a></li>
+        <li><a href="#biographies">Organizers</a></li>
+    </ul>
+</nav>
+
+<section id="description">
+    <h2>Description</h2>
+    <p>In the era of smart automation and digital transformation, achieving efficiency, precision, and adaptability is essential for industries to remain competitive. Sectors, including manufacturing, supply chain and logistics, healthcare, finance, and retail, face significant challenges in deploying Artificial Intelligence (AI) solutions tailored to their unique needs, particularly in critical, resource-constrained applications. According to Gartner’s 2024 Hype Cycle for Artificial Intelligence, composite AI, which integrates techniques like machine learning, knowledge graphs, and rule-based systems, is becoming foundational for industries, enhancing predictions, decisions, and scalability across complex environments. The complexity of real-world systems requires Industrial AI solutions to be customizable to business needs, compact for efficient deployment on resource-constrained devices, and agile to adapt to changing requirements. By being neurosymbolic, such solutions integrate data, knowledge, and human expertise to create robust, explainable, and trustworthy AI that supports planning and reasoning. In this tutorial, we will introduce Multiagent CoPilot for Industrial AI applications focusing on the primary use case of manufacturing (offering requirements, data, knowledge, human expertise). The use cases we will describe are inspired by collaborations with, or similar efforts at Bosch, Hewlett Packard Enterprise, Siemens, and others. AAMAS audience will learn about human-in-the-loop CoPilots as we explore how multiagent coordination, collaboration, and decision-making can enhance the functionality of industrial AI models. With our primary use case, we will demonstrate how to address the unique challenges faced by the manufacturing industry, from improving operational efficiency to enhancing adaptability in critical tasks. However, the knowledge and insights gained from this tutorial are applicable and generalizable to various industries, like transportation and healthcare, offering valuable perspectives for researchers and professionals across domains seeking to adopt these technologies in real-world applications.</p>
+</section>
+
+<section id="goal">
+    <h2>Goals of the Tutorial</h2>
+    <P>The target audience includes academic researchers, data scientists and practitioners working in industrial AI, practitioners applying AI in industrial applications, particularly those who apply machine learning techniques in complex industry environments.</P>
+    <ul>
+        <li>Understand the principles of Multiagent CoPilots in industrial AI.</li>
+        <li>Learn how neurosymbolic AI enhances explainability and reliability.</li>
+        <li>Gain hands-on experience with SmartPilot and its AI-driven agents.</li>
+        <li>Explore real-world applications and deployment challenges.</li>
+    </ul>
+</section>
+
+<section id="schedule">
+    <h2>📅 Detailed Outline of the Tutorial</h2>
+    <p>The tutorial is designed to provide participants with a well-balanced mix of theoretical insights and hands-on experience within a <strong>half-day</strong> session. The interactive format ensures active engagement and concludes with a dedicated Q&A session.</p>
+
+    <div class="session">
+        <h3>🕒 (15 mins) Introduction and Objectives</h3>
+        <p>Kickstarting with an introduction to Industry 4.0, its evolving challenges, and the role of industrial AI solutions. Participants will gain foundational knowledge on neurosymbolic AI and the core objectives of the tutorial.</p>
+    </div>
+
+    <div class="session">
+        <h3>🤖 (30 mins) Overview of CoPilots for Industry</h3>
+        <p>Exploring CoPilots as intelligent, task-aware assistants that extend beyond basic automation. Key attributes include:</p>
+        <ul>
+            <li><strong>Custom:</strong> Tailored solutions for business-specific challenges.</li>
+            <li><strong>Compact:</strong> Optimized for real-time, resource-efficient deployment.</li>
+            <li><strong>Neurosymbolic:</strong> Integrates knowledge, data, and human expertise for enhanced explainability.</li>
+        </ul>
+        <p>The Multiagent CoPilot framework will be introduced, emphasizing:</p>
+        <ul>
+            <li>🔗 <strong>Coordination & Collaboration:</strong> Agents exchanging insights & working together.</li>
+            <li>🌎 <strong>Distributed Intelligence:</strong> Scalable, adaptable AI for dynamic environments.</li>
+            <li>🎯 <strong>Domain Specialization:</strong> Industry-focused, agent-driven expertise.</li>
+            <li>📊 <strong>Enhanced Decision-Making:</strong> Multi-perspective AI-driven solutions.</li>
+        </ul>
+    </div>
+
+    <div class="session">
+        <h3>🛠️ (30 mins) Building CoPilots for Industry with SmartPilot</h3>
+        <p>A hands-on walkthrough for developing Multiagent CoPilots, addressing industry-specific problems, workflow integration, and domain knowledge infusion. The demonstration will showcase:</p>
+        <ul>
+            <li>🚀 <strong>Anomaly Detection:</strong> Powered by PredictX agent.</li>
+            <li>📈 <strong>Production Forecasting:</strong> Managed by ForeSight agent.</li>
+            <li>🔍 <strong>Real-Time Insights:</strong> Handled by InfoGuide agent.</li>
+        </ul>
+        <p>Integration with knowledge graphs and ontologies for a robust neurosymbolic AI system.</p>
+    </div>
+
+    <div class="session">
+        <h3>⚙️ (30 mins) Incorporating Causality into CoPilots</h3>
+        <p>Understanding causality’s role in AI, covering:</p>
+        <ul>
+            <li>🔬 <strong>Causal Discovery & Effect Estimation:</strong> Identifying hidden relationships.</li>
+            <li>📖 <strong>Causal Neurosymbolic AI:</strong> Improving explainability and interpretability.</li>
+            <li>🛠️ <strong>Root-Cause Analysis:</strong> Enhancing decision-making in AI-driven applications.</li>
+        </ul>
+    </div>
+
+    <div class="session">
+        <h3>🏭 (30 mins) Real-World Applications in Industry</h3>
+        <p>Demonstrating how Multiagent CoPilots improve:</p>
+        <ul>
+            <li>✅ <strong>Product Quality Estimation:</strong> AI-driven defect detection.</li>
+            <li>🔎 <strong>Root-Cause Analysis:</strong> Identifying defects and optimizing processes.</li>
+            <li>📊 <strong>Process Optimization:</strong> Reducing future anomalies.</li>
+        </ul>
+    </div>
+
+    <div class="session">
+        <h3>🚀 (30 mins) Real-World Deployment Challenges</h3>
+        <p>Discussing the challenges of deploying Multiagent CoPilots, covering:</p>
+        <ul>
+            <li>🔧 <strong>Integration Complexities:</strong> Aligning AI with existing systems.</li>
+            <li>📏 <strong>Scalability:</strong> Ensuring AI solutions adapt to growth.</li>
+            <li>✅ <strong>Best Practices:</strong> Strategies for overcoming deployment barriers.</li>
+        </ul>
+    </div>
+
+    <div class="session">
+        <h3>💬 (20 mins) Q&A Session</h3>
+        <p>Open floor for participant queries and discussions, ensuring clarity on key concepts.</p>
+    </div>
+</section>
+
+<section id="technical-setup">
+    <h2>Technical Setup</h2>
+    <ul>
+        <li>Python 3 environment</li>
+        <li>Google Colab for cloud-based execution</li>
+        <li>PyTorch/TensorFlow for AI modeling</li>
+        <li>SmartPilot and related open-source resources</li>
+    </ul>
+</section>
+
+<section id="resources">
+    <h2>Supplementary Materials</h2>
+    <ul>
+        <li><strong>Neurosymbolic Customized and Compact CoPilots:</strong> Overview of neurosymbolic AI for developing compact and customizable CoPilots integrating neural and symbolic reasoning for safe, interpretable, and resource-efficient deployment in critical applications like healthcare and nutrition.</li>
+        <li><strong>SmartPilot: Neurosymbolic Customized and Compact CoPilot for Manufacturing:</strong> <a href="https://github.com/ChathurangiShyalika/SmartPilot" target="_blank">GitHub Repository</a>. The demonstration video is available at <a href="https://www.youtube.com/watch?v=etgkhH_8jS4" target="_blank">YouTube Video</a>.</li>
+        <li><strong>Smart Manufacturing Research at AI Institute, University of South Carolina:</strong> <a href="https://wiki.aiisc.ai/index.php?title=Smart_manufacturing" target="_blank">Smart Manufacturing</a></li>
+        <li><strong>Neurosymbolic AI Research at AI Institute, University of South Carolina:</strong> <a href="https://wiki.aiisc.ai/index.php?title=Neurosymbolic_Artificial_Intelligence_Research_at_AIISC" target="_blank">Neurosymbolic AI</a></li>
+        <li><strong>List of previously conducted tutorials:</strong> <a href="https://aiisc.ai/tutorials.html" target="_blank">Tutorials</a></li>
+    </ul>
+</section>
+
+<section id="biographies">
+    <h2>Presenter Biographies</h2>
+
+    <div class="biography">
+        <div class="bio-image">
+            <img src="figs/Chathurangi_Shyalika.jpeg" alt="Chathurangi Shyalika" />
+        </div>
+        <div class="bio-text">
+            <h3>Chathurangi Shyalika</h3>
+            <p><a href="https://www.linkedin.com/in/chathurangi-shyalika-1b89229b/" target="_blank">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=chathurangi" target="_blank">Google Scholar</a></p>
+            <p>Chathurangi Shyalika is a Ph.D. student at the AI Institute, University of South Carolina. Her research interests focus on Deep Learning, Multimodal-AI, Time Series Analysis, and Neurosymbolic-AI. Contact: <a href="mailto:jayakodc@email.sc.edu">jayakodc@email.sc.edu</a></p>
+        </div>
+    </div>
+
+    <div class="biography">
+        <div class="bio-image">
+            <img src="figs/Renjith_Prasad.png" alt="Renjith Prasad" />
+        </div>
+        <div class="bio-text">
+            <h3>Renjith Prasad</h3>
+            <p><a href="https://www.linkedin.com/in/renjithprasadk/" target="_blank">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=PFeryHoAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a></p>
+            <p>Renjith Prasad is a Ph.D. student at the AI Institute, University of South Carolina. His research focuses on multimodal learning, large language models, and neurosymbolic AI. Contact: <a href="mailto:kaippilr@mailbox.sc.edu">kaippilr@mailbox.sc.edu</a></p>
+        </div>
+    </div>
+
+    <div class="biography">
+        <div class="bio-image">
+            <img src="figs/Utkarshani_Jaimini.png" alt="Utkarshani Jaimini" />
+        </div>
+        <div class="bio-text">
+            <h3>Utkarshani Jaimini</h3>
+            <p><a href="https://www.linkedin.com/in/utkarshanijaimini/" target="_blank">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=qKQTw0MAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a></p>
+            <p>Utkarshani Jaimini is a Ph.D. candidate at the AI Institute, University of South Carolina. Her research focuses on neurosymbolic AI and causal reasoning. Contact: <a href="mailto:ujaimini@email.sc.edu">ujaimini@email.sc.edu</a></p>
+        </div>
+    </div>
+
+    <div class="biography">
+        <div class="bio-image">
+            <img src="figs/Cory_Henson.png" alt="Cory Henson" />
+        </div>
+        <div class="bio-text">
+            <h3>Cory Henson</h3>
+            <p><a href="https://www.linkedin.com/in/cory-henson-9140352/" target="_blank">LinkedIn</a>| <a href="https://scholar.google.com/citations?user=vdvzlBYAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+            <p>Cory Henson is a Lead Research Scientist at Bosch Center for AI. His work focuses on knowledge representation, neurosymbolic AI, and causal AI applications in manufacturing. Contact: <a href="mailto:cory.henson@us.bosch.com">cory.henson@us.bosch.com</a></p>
+        </div>
+    </div>
+
+    <div class="biography">
+        <div class="bio-image">
+            <img src="figs/Fadi_El_Kalach.png" alt="Fadi El Kalach" />
+        </div>
+        <div class="bio-text">
+            <h3>Fadi El Kalach</h3>
+            <p><a href="https://www.linkedin.com/in/fadi-el-kalach-7120b615a/" target="_blank">LinkedIn</a>| <a href="https://scholar.google.com/citations?user=cpDqs3gAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a></p>
+            <p>Fadi El Kalach is a Ph.D. student in Automotive Engineering at Clemson University. His research focuses on Smart Manufacturing and the utilization of sensor data for real-time decision-making mechanisms to increase the intelligence of manufacturing systems. Contact: <a href="mailto:felkala@clemson.edu">felkala@clemson.edu</a></p>
+        </div>
+    </div>
+
+    <div class="biography">
+        <div class="bio-image">
+            <img src="figs/Amit_Sheth.png" alt="Amit Sheth" />
+        </div>
+        <div class="bio-text">
+            <h3><a href="https://amit.aiisc.ai/" target="_blank">Amit Sheth</a></h3>
+            <p><a href="https://www.linkedin.com/in/amitsheth/" target="_blank">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=2T3H4ekAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+            <p>Professor Amit Sheth is a leading AI researcher and entrepreneur. His research includes neuro-symbolic AI for trustworthy and explainable AI systems. He is a fellow of IEEE, AAAI, ACM, and AAIA. Contact: <a href="mailto:amit@sc.edu">amit@sc.edu</a></p>
+        </div>
+    </div>
+</section>
+
+</body>
+</html>
