@@ -146,6 +146,19 @@ header {
     left: 20px;  /* Align the left logos to the left side with space from margin */
 }
 
+.left-logos1 {
+    position: absolute;
+    bottom: 130px;  /* Position the logos at the bottom of the header */
+    display: flex;
+    gap: 15px;  /* Space between logos */
+    width: 200px;
+    height: 100px
+}
+
+.left-logos1 {
+    left: 20px;  /* Align the left logos to the left side with space from margin */
+}
+
 .right-logos {
     right: 20px;  /* Align the right logos to the right side with space from margin */
 }
