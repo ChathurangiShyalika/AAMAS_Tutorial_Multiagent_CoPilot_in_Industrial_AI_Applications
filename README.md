@@ -109,7 +109,7 @@ Participants will:
   [Demo Video](https://www.youtube.com/watch?v=etgkhH_8jS4)
 
 - **Smart Manufacturing Research (AIISC)**  
-  [Smart Manufacturing Wiki](https://wiki.aiisc.ai/index.php?title=Smart_manufacturing)
+  [Smart Manufacturing Wiki](http://wiki.aiisc.ai/index.php/Smart_manufacturing)
 
 - **Neurosymbolic AI Research (AIISC)**  
   [Neurosymbolic AI Wiki](https://wiki.aiisc.ai/index.php?title=Neurosymbolic_Artificial_Intelligence_Research_at_AIISC)
