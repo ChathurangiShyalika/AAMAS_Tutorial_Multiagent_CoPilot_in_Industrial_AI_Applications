@@ -232,7 +232,4 @@ Participants will:
 
 ---
 
-*For questions or setup issues, feel free to reach out to any of the presenters above.*
-
-
-*For questions or setup issues, feel free to reach out to any of the presenters above.*
+*For questions or setup issues, feel free to reach out to the presenters above.*
