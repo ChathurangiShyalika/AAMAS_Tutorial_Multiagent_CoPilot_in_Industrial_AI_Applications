@@ -14,6 +14,8 @@
 <p float="left">
   <img src="figs/bosch.png" alt="Bosch Logo" width="150"/>
   <img src="figs/clemson_logo.png" alt="Clemson Logo" width="150"/>
+  <img src="figs/Swinburne.png" alt="Swinburne Logo">
+
 </p>
 
 ### 🔗 Resources:
