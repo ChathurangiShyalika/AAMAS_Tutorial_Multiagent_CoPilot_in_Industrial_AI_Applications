@@ -3,14 +3,18 @@
 
 **📍 May 19–23, 2025 | Detroit, Michigan, USA**
 
-<img src="figs/aamas-logo.png" alt="AAMAS Logo" width="100"/>
+<img src="figs/aamas-logo.png" alt="AAMAS Logo" width="150"/>
 
 ### Hosted by:
 <p float="left">
-  <img src="figs/USClogo.jpg" alt="USC Logo" width="100"/>
-  <img src="figs/AIISC_logo.png" alt="AIISC Logo" width="100"/>
-  <img src="figs/bosch.png" alt="Bosch Logo" width="100"/>
-  <img src="figs/clemson_logo.png" alt="Clemson Logo" width="100"/>
+  <img src="figs/USClogo.jpg" alt="USC Logo" width="150"/>
+</p>
+
+### Collaborators:
+<p float="left">
+  <img src="figs/AIISC_logo.png" alt="AIISC Logo" width="150"/>
+  <img src="figs/bosch.png" alt="Bosch Logo" width="150"/>
+  <img src="figs/clemson_logo.png" alt="Clemson Logo" width="150"/>
 </p>
 
 ### 🔗 Resources:
@@ -114,53 +118,117 @@ Participants will:
 ---
 
 ## 👩‍🏫 Presenter Biographies
+### 🧑‍🔬 Chathurangi Shyalika
 
-### 🧑‍🔬 Chathurangi Shyalika  
-<img src="figs/Chathurangi_Shyalika.jpeg" alt="Chathurangi Shyalika" width="200"/>  
+<table>
+<tr>
+<td>
+
 PhD Student, AI Institute @ USC  
-[LinkedIn](https://www.linkedin.com/in/chathurangi-shyalika-1b89229b/) | [Google Scholar](https://scholar.google.com/citations?user=chathurangi)  
+📫 [LinkedIn](https://www.linkedin.com/in/chathurangi-shyalika-1b89229b/) | [Google Scholar](https://scholar.google.com/citations?user=chathurangi)  
 📧 jayakodc@email.sc.edu
 
+</td>
+<td>
+<img src="figs/chathurangi_profile.png" alt="Chathurangi Shyalika" width="200"/>
+</td>
+</tr>
+</table>
+
 ---
 
-### 🧑‍🔬 Renjith Prasad  
-<img src="figs/Renjith_Prasad.png" alt="Renjith Prasad" width="200"/>  
+### 🧑‍🔬 Renjith Prasad
+
+<table>
+<tr>
+<td>
+
 PhD Student, AI Institute @ USC  
-[LinkedIn](https://www.linkedin.com/in/renjithprasadk/) | [Google Scholar](https://scholar.google.com/citations?user=PFeryHoAAAAJ)  
+📫 [LinkedIn](https://www.linkedin.com/in/renjithprasadk/) | [Google Scholar](https://scholar.google.com/citations?user=PFeryHoAAAAJ)  
 📧 kaippilr@mailbox.sc.edu
 
+</td>
+<td>
+<img src="figs/Renjith_Prasad.png" alt="Renjith Prasad" width="200"/>
+</td>
+</tr>
+</table>
+
 ---
 
-### 🧑‍🔬 Utkarshani Jaimini  
-<img src="figs/Utkarshani_Jaimini.png" alt="Utkarshani Jaimini" width="200"/>  
+### 🧑‍🔬 Utkarshani Jaimini
+
+<table>
+<tr>
+<td>
+
 PhD Candidate, AI Institute @ USC  
-[LinkedIn](https://www.linkedin.com/in/utkarshanijaimini/) | [Google Scholar](https://scholar.google.com/citations?user=qKQTw0MAAAAJ)  
+📫 [LinkedIn](https://www.linkedin.com/in/utkarshanijaimini/) | [Google Scholar](https://scholar.google.com/citations?user=qKQTw0MAAAAJ)  
 📧 ujaimini@email.sc.edu
 
+</td>
+<td>
+<img src="figs/Utkarshani_Jaimini.png" alt="Utkarshani Jaimini" width="200"/>
+</td>
+</tr>
+</table>
+
 ---
 
-### 🧑‍🔬 Cory Henson  
-<img src="figs/Cory_Henson.png" alt="Cory Henson" width="200"/>  
+### 🧑‍🔬 Cory Henson
+
+<table>
+<tr>
+<td>
+
 Lead Research Scientist, Bosch  
-[LinkedIn](https://www.linkedin.com/in/cory-henson-9140352/) | [Google Scholar](https://scholar.google.com/citations?user=vdvzlBYAAAAJ)  
+📫 [LinkedIn](https://www.linkedin.com/in/cory-henson-9140352/) | [Google Scholar](https://scholar.google.com/citations?user=vdvzlBYAAAAJ)  
 📧 cory.henson@us.bosch.com
 
+</td>
+<td>
+<img src="figs/Cory_Henson.png" alt="Cory Henson" width="200"/>
+</td>
+</tr>
+</table>
+
 ---
 
-### 🧑‍🔬 Fadi El Kalach  
-<img src="figs/Fadi_El_Kalach.png" alt="Fadi El Kalach" width="200"/>  
+### 🧑‍🔬 Fadi El Kalach
+
+<table>
+<tr>
+<td>
+
 PhD Student, Automotive Engineering @ Clemson  
-[LinkedIn](https://www.linkedin.com/in/fadi-el-kalach-7120b615a/) | [Google Scholar](https://scholar.google.com/citations?user=cpDqs3gAAAAJ)  
+📫 [LinkedIn](https://www.linkedin.com/in/fadi-el-kalach-7120b615a/) | [Google Scholar](https://scholar.google.com/citations?user=cpDqs3gAAAAJ)  
 📧 felkala@clemson.edu
 
+</td>
+<td>
+<img src="figs/Fadi_El_Kalach.png" alt="Fadi El Kalach" width="200"/>
+</td>
+</tr>
+</table>
+
 ---
 
-### 🧠 Prof. Amit Sheth  
-<img src="figs/Amit_Sheth.png" alt="Amit Sheth" width="200"/>  
+### 🧠 Prof. Amit Sheth
+
+<table>
+<tr>
+<td>
+
 Director, AIISC  
-[Website](https://amit.aiisc.ai) | [LinkedIn](https://www.linkedin.com/in/amitsheth/) | [Google Scholar](https://scholar.google.com/citations?user=2T3H4ekAAAAJ)  
+📫 [Website](https://amit.aiisc.ai) | [LinkedIn](https://www.linkedin.com/in/amitsheth/) | [Google Scholar](https://scholar.google.com/citations?user=2T3H4ekAAAAJ)  
 📧 amit@sc.edu
 
----
+</td>
+<td>
+<img src="figs/Amit_Sheth.png" alt="Amit Sheth" width="200"/>
+</td>
+</tr>
+</table>
+
 
 *For questions or setup issues, feel free to reach out to any of the presenters above.*
