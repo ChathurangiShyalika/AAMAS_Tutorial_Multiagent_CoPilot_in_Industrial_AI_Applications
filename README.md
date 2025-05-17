@@ -3,13 +3,15 @@
 
 **📍 May 19–23, 2025 | Detroit, Michigan, USA**
 
-![AAMAS Logo](figs/aamas-logo.png)
+<img src="figs/aamas-logo.png" alt="AAMAS Logo" width="100"/>
 
 ### Hosted by:
-- ![USC Logo](figs/USClogo.jpg)
-- ![AIISC Logo](figs/AIISC_logo.png)
-- ![Bosch Logo](figs/bosch.png)
-- ![Clemson Logo](figs/clemson_logo.png)
+<p float="left">
+  <img src="figs/USClogo.jpg" alt="USC Logo" width="100"/>
+  <img src="figs/AIISC_logo.png" alt="AIISC Logo" width="100"/>
+  <img src="figs/bosch.png" alt="Bosch Logo" width="100"/>
+  <img src="figs/clemson_logo.png" alt="Clemson Logo" width="100"/>
+</p>
 
 ### 🔗 Resources:
 - [GitHub Repository](https://github.com/ChathurangiShyalika/AAMAS_Tutorial_Multiagent_CoPilot_in_Industrial_AI_Applications)
@@ -114,6 +116,7 @@ Participants will:
 ## 👩‍🏫 Presenter Biographies
 
 ### 🧑‍🔬 Chathurangi Shyalika  
+<img src="figs/Chathurangi_Shyalika.jpeg" alt="Chathurangi Shyalika" width="200"/>  
 PhD Student, AI Institute @ USC  
 [LinkedIn](https://www.linkedin.com/in/chathurangi-shyalika-1b89229b/) | [Google Scholar](https://scholar.google.com/citations?user=chathurangi)  
 📧 jayakodc@email.sc.edu
@@ -121,6 +124,7 @@ PhD Student, AI Institute @ USC
 ---
 
 ### 🧑‍🔬 Renjith Prasad  
+<img src="figs/Renjith_Prasad.png" alt="Renjith Prasad" width="200"/>  
 PhD Student, AI Institute @ USC  
 [LinkedIn](https://www.linkedin.com/in/renjithprasadk/) | [Google Scholar](https://scholar.google.com/citations?user=PFeryHoAAAAJ)  
 📧 kaippilr@mailbox.sc.edu
@@ -128,6 +132,7 @@ PhD Student, AI Institute @ USC
 ---
 
 ### 🧑‍🔬 Utkarshani Jaimini  
+<img src="figs/Utkarshani_Jaimini.png" alt="Utkarshani Jaimini" width="200"/>  
 PhD Candidate, AI Institute @ USC  
 [LinkedIn](https://www.linkedin.com/in/utkarshanijaimini/) | [Google Scholar](https://scholar.google.com/citations?user=qKQTw0MAAAAJ)  
 📧 ujaimini@email.sc.edu
@@ -135,6 +140,7 @@ PhD Candidate, AI Institute @ USC
 ---
 
 ### 🧑‍🔬 Cory Henson  
+<img src="figs/Cory_Henson.png" alt="Cory Henson" width="200"/>  
 Lead Research Scientist, Bosch  
 [LinkedIn](https://www.linkedin.com/in/cory-henson-9140352/) | [Google Scholar](https://scholar.google.com/citations?user=vdvzlBYAAAAJ)  
 📧 cory.henson@us.bosch.com
@@ -142,6 +148,7 @@ Lead Research Scientist, Bosch
 ---
 
 ### 🧑‍🔬 Fadi El Kalach  
+<img src="figs/Fadi_El_Kalach.png" alt="Fadi El Kalach" width="200"/>  
 PhD Student, Automotive Engineering @ Clemson  
 [LinkedIn](https://www.linkedin.com/in/fadi-el-kalach-7120b615a/) | [Google Scholar](https://scholar.google.com/citations?user=cpDqs3gAAAAJ)  
 📧 felkala@clemson.edu
@@ -149,6 +156,7 @@ PhD Student, Automotive Engineering @ Clemson
 ---
 
 ### 🧠 Prof. Amit Sheth  
+<img src="figs/Amit_Sheth.png" alt="Amit Sheth" width="200"/>  
 Director, AIISC  
 [Website](https://amit.aiisc.ai) | [LinkedIn](https://www.linkedin.com/in/amitsheth/) | [Google Scholar](https://scholar.google.com/citations?user=2T3H4ekAAAAJ)  
 📧 amit@sc.edu
