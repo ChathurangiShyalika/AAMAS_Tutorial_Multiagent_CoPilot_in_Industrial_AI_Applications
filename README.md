@@ -17,8 +17,11 @@
 </p>
 
 ### 🔗 Resources:
-- [GitHub Repository](https://github.com/ChathurangiShyalika/AAMAS_Tutorial_Multiagent_CoPilot_in_Industrial_AI_Applications)
 - [Tutorial Slides](https://aiisc.ai/tutorials.html)
+- [SmartPilot GitHub Repository](https://github.com/ChathurangiShyalika/SmartPilot)
+- [SmartPilot Demo](https://smartpilot.my.canva.site/)
+
+
 
 ---
 
