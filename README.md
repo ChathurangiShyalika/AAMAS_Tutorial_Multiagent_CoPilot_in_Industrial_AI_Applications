@@ -11,11 +11,11 @@
 </p>
 
 ### Collaborators:
-<p float="left">
-  <img src="figs/bosch.png" alt="Bosch Logo" width="150"/>
-  <img src="figs/clemson_logo.png" alt="Clemson Logo" width="150"/>
-  <img src="figs/Swinburne.png" alt="Swinburne Logo" width="150"/>
-</p>
+
+<img src="figs/bosch.png" alt="Bosch Logo" width="150"/>  
+<img src="figs/clemson_logo.png" alt="Clemson Logo" width="150"/>  
+<img src="figs/Swinburne.png" alt="Swinburne Logo" width="150"/>
+
 
 ### 🔗 Resources:
 - [Tutorial Slides](https://www.canva.com/design/DAGjn2tnlNI/xDOZSfHpokfDim5E8NrVlQ/view?utm_content=DAGjn2tnlNI&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
