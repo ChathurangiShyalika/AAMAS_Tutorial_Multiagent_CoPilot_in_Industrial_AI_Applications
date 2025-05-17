@@ -7,12 +7,11 @@
 
 ### Hosted by:
 <p float="left">
-  <img src="figs/USClogo.jpg" alt="USC Logo" width="150"/>
+  <img src="figs/AIISC_logo.png" alt="AIISC Logo" width="150"/>
 </p>
 
 ### Collaborators:
 <p float="left">
-  <img src="figs/AIISC_logo.png" alt="AIISC Logo" width="150"/>
   <img src="figs/bosch.png" alt="Bosch Logo" width="150"/>
   <img src="figs/clemson_logo.png" alt="Clemson Logo" width="150"/>
 </p>
@@ -118,19 +117,20 @@ Participants will:
 ---
 
 ## 👩‍🏫 Presenter Biographies
+
 ### 🧑‍🔬 Chathurangi Shyalika
 
 <table>
 <tr>
-<td>
-
-PhD Student, AI Institute @ USC  
-📫 [LinkedIn](https://www.linkedin.com/in/chathurangi-shyalika-1b89229b/) | [Google Scholar](https://scholar.google.com/citations?user=chathurangi)  
-📧 jayakodc@email.sc.edu
-
+<td width="220px">
+<img src="figs/Chathurangi_Shyalika.jpeg" alt="Chathurangi Shyalika" width="200"/>
 </td>
 <td>
-<img src="figs/chathurangi_profile.png" alt="Chathurangi Shyalika" width="200"/>
+
+**PhD Student**, AI Institute @ USC  
+📫 [LinkedIn](https://www.linkedin.com/in/chathurangi-shyalika-1b89229b/) | [Google Scholar](https://scholar.google.com/citations?user=dnybS1oAAAAJ&hl=en)  
+📧 jayakodc@email.sc.edu
+
 </td>
 </tr>
 </table>
@@ -141,15 +141,15 @@ PhD Student, AI Institute @ USC
 
 <table>
 <tr>
+<td width="220px">
+<img src="figs/Renjith_Prasad.png" alt="Renjith Prasad" width="200"/>
+</td>
 <td>
 
-PhD Student, AI Institute @ USC  
+**PhD Student**, AI Institute @ USC  
 📫 [LinkedIn](https://www.linkedin.com/in/renjithprasadk/) | [Google Scholar](https://scholar.google.com/citations?user=PFeryHoAAAAJ)  
 📧 kaippilr@mailbox.sc.edu
 
-</td>
-<td>
-<img src="figs/Renjith_Prasad.png" alt="Renjith Prasad" width="200"/>
 </td>
 </tr>
 </table>
@@ -160,15 +160,15 @@ PhD Student, AI Institute @ USC
 
 <table>
 <tr>
+<td width="220px">
+<img src="figs/Utkarshani_Jaimini.png" alt="Utkarshani Jaimini" width="200"/>
+</td>
 <td>
 
-PhD Candidate, AI Institute @ USC  
+**PhD Candidate**, AI Institute @ USC  
 📫 [LinkedIn](https://www.linkedin.com/in/utkarshanijaimini/) | [Google Scholar](https://scholar.google.com/citations?user=qKQTw0MAAAAJ)  
 📧 ujaimini@email.sc.edu
 
-</td>
-<td>
-<img src="figs/Utkarshani_Jaimini.png" alt="Utkarshani Jaimini" width="200"/>
 </td>
 </tr>
 </table>
@@ -179,15 +179,15 @@ PhD Candidate, AI Institute @ USC
 
 <table>
 <tr>
+<td width="220px">
+<img src="figs/Cory_Henson.png" alt="Cory Henson" width="200"/>
+</td>
 <td>
 
-Lead Research Scientist, Bosch  
+**Lead Research Scientist**, Bosch  
 📫 [LinkedIn](https://www.linkedin.com/in/cory-henson-9140352/) | [Google Scholar](https://scholar.google.com/citations?user=vdvzlBYAAAAJ)  
 📧 cory.henson@us.bosch.com
 
-</td>
-<td>
-<img src="figs/Cory_Henson.png" alt="Cory Henson" width="200"/>
 </td>
 </tr>
 </table>
@@ -198,15 +198,15 @@ Lead Research Scientist, Bosch
 
 <table>
 <tr>
+<td width="220px">
+<img src="figs/Fadi_El_Kalach.png" alt="Fadi El Kalach" width="200"/>
+</td>
 <td>
 
-PhD Student, Automotive Engineering @ Clemson  
+**PhD Student**, Automotive Engineering @ Clemson  
 📫 [LinkedIn](https://www.linkedin.com/in/fadi-el-kalach-7120b615a/) | [Google Scholar](https://scholar.google.com/citations?user=cpDqs3gAAAAJ)  
 📧 felkala@clemson.edu
 
-</td>
-<td>
-<img src="figs/Fadi_El_Kalach.png" alt="Fadi El Kalach" width="200"/>
 </td>
 </tr>
 </table>
@@ -217,18 +217,22 @@ PhD Student, Automotive Engineering @ Clemson
 
 <table>
 <tr>
+<td width="220px">
+<img src="figs/Amit_Sheth.png" alt="Amit Sheth" width="200"/>
+</td>
 <td>
 
-Director, AIISC  
+**Director**, AIISC  
 📫 [Website](https://amit.aiisc.ai) | [LinkedIn](https://www.linkedin.com/in/amitsheth/) | [Google Scholar](https://scholar.google.com/citations?user=2T3H4ekAAAAJ)  
 📧 amit@sc.edu
 
 </td>
-<td>
-<img src="figs/Amit_Sheth.png" alt="Amit Sheth" width="200"/>
-</td>
 </tr>
 </table>
+
+---
+
+*For questions or setup issues, feel free to reach out to any of the presenters above.*
 
 
 *For questions or setup issues, feel free to reach out to any of the presenters above.*
