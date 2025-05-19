@@ -20,7 +20,7 @@
 
 
 ### 🔗 Resources:
-- [Tutorial Slides](https://www.canva.com/design/DAGjn2tnlNI/xDOZSfHpokfDim5E8NrVlQ/view?utm_content=DAGjn2tnlNI&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
+- [Tutorial Slides](https://www.canva.com/design/DAGjn2tnlNI/xDOZSfHpokfDim5E8NrVlQ/view?utm_content=DAGjn2tnlNI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h70e2c226b8)
 - [SmartPilot GitHub Repository](https://github.com/ChathurangiShyalika/SmartPilot)
 - [SmartPilot Demo](https://smartpilot.my.canva.site/)
 
